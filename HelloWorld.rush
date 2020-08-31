@@ -1,4 +1,5 @@
 main(args)
 {
 	println("Hello world")
+	#submit 1
 }
